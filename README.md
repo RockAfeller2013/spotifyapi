@@ -10,7 +10,15 @@ Michael
 Red Hot Chilly Peppers
 Jamarquie 
 Craig David
-
+The Roots
+DnB
+Drum and Base - https://open.spotify.com/playlist/5TPxpheqUlCiUn67BbmSA2
+Marvin Gaye - Trouble Man
+Lenny Kravits
+Reggeaton - https://open.spotify.com/playlist/5p753tO8gFiI54Z1tjV7Px
+Roxy - 
+The Doors
+Myles Davis
 
 
 ### Requirements 
