@@ -61,4 +61,10 @@ User Scripts
 - https://spotify-downloader.com/ 
 - https://spotifydown.com/
 
+### Remote Access 
+Snology QuickConnect
+Plex Connect - https://www.reddit.com/r/PleX/comments/zxi5om/enable_remote_access_using_synology_quickconnect/
+https://mariushosting.com/synology-how-to-allow-plex-to-work-over-an-https-connection/
+https://mariushosting.com/synology-how-to-allow-plex-to-work-over-an-https-connection/
+
 
