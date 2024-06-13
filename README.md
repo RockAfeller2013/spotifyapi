@@ -2,27 +2,33 @@
 
 ### Playlists
 
-Feel
-Cluck Cluck
-Club
-Run
-Michael
-Red Hot Chilly Peppers
-Jamarquie 
-Craig David
-The Roots
-DnB
+Feel - https://open.spotify.com/playlist/4BSwm9Hels4KDua5piBTIu
+Cluck Cluck - https://open.spotify.com/playlist/3hq9NYryjQbW7aREAMIU7V
+Club - https://open.spotify.com/playlist/3xrVKk0tomLJsGMw5d6gQg
+Clasical - https://open.spotify.com/playlist/67R9LOnncuPoCeBYvtKqKx
+Run - https://open.spotify.com/playlist/4y0i8AmyVYuQPjMfITa4qy
+Michael - https://open.spotify.com/playlist/7jk3ljyELQLD7U99Ce1qYy
+Red Hot Chilly Peppers - https://open.spotify.com/playlist/2rTfMRhePwIvdl3tfRjCT2
+Jamiroquai - https://open.spotify.com/playlist/56JDruZgrAriE3dVZTOgKB
+The Roots - https://open.spotify.com/playlist/2ahqqjBgFjcqNIEFrXGgwP
+DnB - https://open.spotify.com/playlist/24JUkWxkxWS4X2ZHlBlWG3
 Drum and Base - https://open.spotify.com/playlist/5TPxpheqUlCiUn67BbmSA2
-Marvin Gaye - Trouble Man
+Marvin Gaye - Trouble Man - https://open.spotify.com/playlist/2PktoC0N1HnXgVrwE5n8gE
 Lenny Kravits
 Reggeaton - https://open.spotify.com/playlist/5p753tO8gFiI54Z1tjV7Px
-Roxy - 
-The Doors
-Myles Davis
+Roxy - https://open.spotify.com/playlist/01Rpo54c5B6SaDKlbe30QT
+The Doors - https://open.spotify.com/playlist/3zu9Vmh94KNEUoMesDhtLi
+Myles Davis - https://open.spotify.com/playlist/4B3gpEzpzsBL0v1OCC9RzE / https://open.spotify.com/playlist/3R6meYZCbT5XDql7mA0Xc1
+Blue Tree Cafe - https://open.spotify.com/playlist/3zahvO2FvxLKQ0l7sGGXT2
+Best of Chris Brown - 
+Calvin Harris - https://open.spotify.com/playlist/3YUKVO2A7PZpOTuda3DUzw
+Ravi Shanka - https://open.spotify.com/playlist/5yKfNTXM5CWa8xi67VHD5C
+Craig David
 
 
 ### Requirements 
 
+https://audiohype.io/resources/the-best-spotify-playlists/
 Sort Playlist by Popularity
 Download based on Popularity and rename it by Popularity number
 Analyise and Mix Tracks based on Tempo, etc. 
