@@ -48,6 +48,9 @@ Zotify - https://gitlab.com/team-zotify/zotify
 https://github.com/topics/spotify-downloader?l=python
 Savify - https://github.com/LaurenceRawlings/savify
 
+User Scripts
+- https://greasyfork.org/en/scripts/446143-spotify-downloader-download-spotify-songs-playlists-and-albums
+
 ### Websites 
 https://spotify-downloader.com/ 
 https://spotifydown.com/
