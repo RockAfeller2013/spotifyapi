@@ -44,16 +44,12 @@ Analyise and Mix Tracks based on Tempo, etc.
 
 ### Downloader
 
-- Spotube - https://pypi.org/project/spotube/
-- spotDL v4 - https://github.com/spotDL/spotify-downloader / https://spotdl.readthedocs.io/en/latest/installation/#where-does-spotdl-download-songs
-- Download music tracks, playlists, albums from Spotify using spotDL - https://www.geeksforgeeks.org/download-music-tracks-playlists-albums-from-spotify-using-spotdl/
-- spotify-dl 8.9.0 - https://pypi.org/project/spotify-dl/
-- Spotify song downloader using python - https://www.skyfilabs.com/project-ideas/download-songs-from-spotify-using-python
+
 - deemix-docker - https://gitlab.com/Bockiii/deemix-docker
 - Spotify playlist downloader - https://github.com/teplinsky-maxim/spotify-playlist-downloader
 - Zotify - https://gitlab.com/team-zotify/zotify
-- Search https://github.com/topics/spotify-downloader?l=python
-- Savify - https://github.com/LaurenceRawlings/savify
+- Spotube - https://pypi.org/project/spotube/ Youtube
+
 
 User Scripts
 - https://greasyfork.org/en/scripts/446143-spotify-downloader-download-spotify-songs-playlists-and-albums
