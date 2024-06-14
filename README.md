@@ -2,6 +2,7 @@
 
 ### Playlists
 
+- Test - https://open.spotify.com/playlist/607vORdTbLhTWZjdsrfhuG?si=cfe6a34d5f1345d8
 Feel - https://open.spotify.com/playlist/4BSwm9Hels4KDua5piBTIu
 Cluck Cluck - https://open.spotify.com/playlist/3hq9NYryjQbW7aREAMIU7V
 Club - https://open.spotify.com/playlist/3xrVKk0tomLJsGMw5d6gQg
