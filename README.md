@@ -55,13 +55,24 @@ User Scripts
 - https://greasyfork.org/en/scripts/446143-spotify-downloader-download-spotify-songs-playlists-and-albums
 
 ### Websites 
-- https://spotify-downloader.com/ 
+- https://spotify-downloader.com/
 - https://spotifydown.com/
-
+- https://www.sidify.com/sp-win/music-converter.html
+- 
 ### Remote Access 
 Snology QuickConnect
 Plex Connect - https://www.reddit.com/r/PleX/comments/zxi5om/enable_remote_access_using_synology_quickconnect/
 https://mariushosting.com/synology-how-to-allow-plex-to-work-over-an-https-connection/
 https://mariushosting.com/synology-how-to-allow-plex-to-work-over-an-https-connection/
+
+# Tidal
+
+- https://github.com/yaronzz/Tidal-Media-Downloader-PRO/releases
+
+## Zotify 
+
+- https://github.com/librespot-org/librespot
+- "DOWNLOAD_REAL_TIME": "True" - delta_want = (downloaded / total_size) * (duration_ms/5000) track.py
+
 
 
