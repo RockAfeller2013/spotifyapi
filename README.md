@@ -68,6 +68,7 @@ https://mariushosting.com/synology-how-to-allow-plex-to-work-over-an-https-conne
 # Tidal
 
 - https://github.com/yaronzz/Tidal-Media-Downloader-PRO/releases
+- https://github.com/yaronzz/Tidal-Media-Downloader
 
 ## Zotify 
 
